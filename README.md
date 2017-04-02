@@ -28,6 +28,7 @@ Note: For getting email twitter provides double security or masking layer, so go
 1. Clone the Repository.<br>
 2. Open the index.php file and enter the CONSUMER_KEY,CONSUMER_SECRET and OAUTH_CALLBACK from your newly created APP ID as shown in the snippet below. Note OAUTH_CALLBACK or Redirect Url is the Url where your want to reload page after successfully getting data from twitter database(i.e. index.php page).<br>
 3.Once you get data in array your can easily get data from individual index of array and send to database as per your requirement<br><br>
+4. Keep all the files as it is we have to make changes in index.php and callback.php<br>
 4.Browse the index.php file in the browser and test the Login with Twitter functionality.<br>
 
 ```<?php
