@@ -4,6 +4,9 @@
 
 This repository contains the open source PHP Login API that allows you to access the Twitter Platform from your PHP Website / App.<br><br>
 This small project helps web developers to implement the user registration with Twitter using PHP at their website. Also the user information would be stored in an array as shown in the images below.
+<br/><br/><br/>
+![Screenshot of Twitter Basic Data Flow](https://cloud.githubusercontent.com/assets/15896579/24586137/a83241d6-17b7-11e7-9604-f78c1f042ad0.JPG?raw=true "Screenshot of Twitter Basic Data Flow")
+<br/><br/><br/>
 
 
 
@@ -68,25 +71,40 @@ In the Twitter App Dashboard: <br>1. Site Url / Mobile Site Url is the page wher
 
 ## Preview
 
-![Screenshot of Facebook Login API](https://cloud.githubusercontent.com/assets/15896579/24581274/f7bfc444-1735-11e7-9f06-4144823512d2.png?raw=true "Screenshot of Facebook Login API")
+![Screenshot of Twitter Project Page 1](https://cloud.githubusercontent.com/assets/15896579/24586138/ab48b760-17b7-11e7-97ff-223b308a879a.png?raw=true "Screenshot of Twitter Project Page 1")
 <br/><br/><br/>
 
-![Screenshot of Facebook Login API](https://cloud.githubusercontent.com/assets/15896579/24581272/f7be37be-1735-11e7-984a-79078e8d9120.png?raw=true "Screenshot of Facebook Login API")
+![Screenshot of Twitter Project Page 2](https://cloud.githubusercontent.com/assets/15896579/24586140/b0c59c3a-17b7-11e7-84bf-cbb16c300d30.png?raw=true "Screenshot of Twitter Project Page 2")
 <br/><br/><br/>
 
-![Screenshot of Facebook Login API](https://cloud.githubusercontent.com/assets/15896579/24581338/e6266d22-1736-11e7-86e4-d1f00aa679b3.png?raw=true "Screenshot of Facebook Login API")
+![Screenshot of Twitter Project Page 3](https://cloud.githubusercontent.com/assets/15896579/24586141/b4077bfc-17b7-11e7-885e-5502706c99e7.png?raw=true "Screenshot of Twitter Project Page 3")
 <br/><br/><br/>
 
-![Screenshot of Facebook Login API](https://cloud.githubusercontent.com/assets/15896579/24581269/f7b96b6c-1735-11e7-833a-015dd36515f6.png?raw=true "Screenshot of Facebook Login API")
+![Screenshot of Twitter Project Page 4](https://cloud.githubusercontent.com/assets/15896579/24586142/b6c1e3a0-17b7-11e7-85a0-613ef606fb24.png?raw=true "Screenshot of Twitter Project Page 4")
 <br/><br/><br/>
 
-![Screenshot of Facebook App Dashboard](https://cloud.githubusercontent.com/assets/15896579/24581271/f7bc5f16-1735-11e7-8382-1165cfc9d62d.png?raw=true "Screenshot of Facebook App Dashboard")
+![Screenshot of Twitter Project Page 5](https://cloud.githubusercontent.com/assets/15896579/24586143/b9445586-17b7-11e7-931f-b363888b5a79.png?raw=true "Screenshot of Twitter Project Page 5")
+<br/><br/><br/>
+![Screenshot of Twitter APP Dashboard Page 1](https://cloud.githubusercontent.com/assets/15896579/24586147/be95cf42-17b7-11e7-8c3b-2fb4481226f5.png?raw=true "Screenshot of Twitter APP Dashboard Page 1")
 <br/><br/><br/>
 
-![Screenshot of Facebook App Dashboard](https://cloud.githubusercontent.com/assets/15896579/24581273/f7be772e-1735-11e7-8c80-89bf645cf934.png?raw=true "Screenshot of Facebook App Dashboard")
+![Screenshot of Twitter APP Dashboardt Page 2](https://cloud.githubusercontent.com/assets/15896579/24586150/c1cf3b58-17b7-11e7-868c-ccf1777bce71.png?raw=true "Screenshot of Twitter APP Dashboard Page 2")
 <br/><br/><br/>
 
-![Screenshot of Facebook App Dashboard](https://cloud.githubusercontent.com/assets/15896579/24581270/f7baa720-1735-11e7-9d30-fe3b187e5ce3.png?raw=true "Screenshot of Facebook App Dashboard")
+![Screenshot of Twitter APP Dashboard Page 3](https://cloud.githubusercontent.com/assets/15896579/24586152/c5110044-17b7-11e7-8645-7cf58341668c.png?raw=true "Screenshot of Twitter APP Dashboard Page 3")
+<br/><br/><br/>
+
+![Screenshot of Twitter APP Dashboard Page 4](https://cloud.githubusercontent.com/assets/15896579/24586154/c9084298-17b7-11e7-8026-bb802b5cc910.png?raw=true "Screenshot of Twitter APP Dashboard Page 4")
+<br/><br/><br/>
+
+![Screenshot of Twitter APP Dashboard Page 5](https://cloud.githubusercontent.com/assets/15896579/24586155/cd8233c4-17b7-11e7-9b2c-7670b2fb12b5.png?raw=true "Screenshot of Twitter APP Dashboard Page 5")
+<br/><br/><br/>
+
+![Screenshot of Twitter APP Dashboard Page 6](https://cloud.githubusercontent.com/assets/15896579/24586158/d132385c-17b7-11e7-8335-e941c91eebc8.png?raw=true "Screenshot of Twitter APP Dashboard Page 6")
+
+
+
+
 <br/><br/><br/>
 
 
