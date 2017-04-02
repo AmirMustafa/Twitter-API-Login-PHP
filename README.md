@@ -32,6 +32,8 @@ Note: For getting email twitter provides double security or masking layer, so go
 4.Once you get data in array your can easily get data from individual index of array and send to database as per your requirement<br><br>
 5.Browse the index.php file in the browser and test the Login with Twitter functionality.<br>
 
+## Snippet
+
 ```<?php
 
 session_start();
